@@ -15,6 +15,10 @@ public class TestaBanco {
 		System.out.println(contaDoPaulo.getTitular());
 
 		 System.out.println(contaDoPaulo.getNumero());
+		 
+		 System.out.println("teste");
+		 
+		 
 		
 	}
 
